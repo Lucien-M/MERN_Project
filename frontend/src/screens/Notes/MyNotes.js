@@ -92,4 +92,4 @@ const Notes = () => {
   );
 };
 
-export default Notes;
+export default MyNotes;
